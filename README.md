@@ -1,4 +1,4 @@
-# Database SQL em Flutter
+# SQL Database em Flutter
 
   Este é um projeto criado para ser apresentado como trabalho da matéria de Desenvolvimento WEB/Mobile IV com o objetivo de aprender como utilizar a memória local do aparelho Mobile para aplicações Flutter Mobile.
 
